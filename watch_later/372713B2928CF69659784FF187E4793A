@@ -1,0 +1,5 @@
+start=5832.368208
+af=sofalizer=sofa=%86%C:/ProgramData/scoop/apps/mpv/current/portable_config/script-opts/sofa/ClubFritz6.sofa:type=time:gain=0:lfegain=2,loudnorm=i=-24:lra=7:tp=-2,dynaudnorm=f=400:g=5:m=4:p=%4%0.95:t=0
+sid=1
+sub-visibility=no
+sub-ass-override=no

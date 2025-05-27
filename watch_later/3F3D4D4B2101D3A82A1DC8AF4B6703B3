@@ -1,0 +1,4 @@
+start=59.392667
+audio-delay=-0.300000
+af=dynaudnorm=f=400:g=5:m=4:p=%4%0.95:t=0,dynaudnorm=f=400:g=5:m=4:p=%4%0.95:t=0,dynaudnorm=f=400:g=5:m=4:p=%4%0.95:t=0
+sub-visibility=no

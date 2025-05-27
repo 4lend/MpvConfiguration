@@ -1,0 +1,5 @@
+start=1127.752000
+speed=1.210000
+af=acompressor=threshold=-20dB:ratio=2:attack=20:release=250:makeup=8dB:knee=%5%2.8dB
+sid=2
+sub-ass-override=force

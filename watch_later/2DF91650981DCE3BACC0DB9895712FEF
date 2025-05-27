@@ -1,0 +1,4 @@
+start=214.756000
+af=acompressor=threshold=-20dB:ratio=2:attack=20:release=250:makeup=8dB:knee=%5%2.8dB
+ab-loop-a=79.913000
+ab-loop-b=88.630000

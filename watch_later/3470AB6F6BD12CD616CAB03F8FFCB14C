@@ -1,0 +1,4 @@
+start=738.780000
+speed=1.331000
+audio-delay=0.000000
+af=dynaudnorm=f=400:g=5:m=4:p=%4%0.95:t=0

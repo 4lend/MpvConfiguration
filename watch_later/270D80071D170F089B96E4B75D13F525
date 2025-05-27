@@ -1,0 +1,4 @@
+start=2254.485567
+speed=1.331000
+af=dynaudnorm=f=400:g=5:m=4:p=%4%0.95:t=0
+ab-loop-a=741.145400

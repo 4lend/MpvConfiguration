@@ -1,0 +1,4 @@
+start=523.700000
+speed=1.241843
+af=acompressor=threshold=-20dB:ratio=2:attack=20:release=250:makeup=8dB:knee=%5%2.8dB
+sub-visibility=no

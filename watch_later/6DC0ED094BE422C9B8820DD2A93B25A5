@@ -1,0 +1,10 @@
+start=3682.512167
+speed=1.210000
+volume=99.000000
+audio-delay=-0.000000
+af=dynaudnorm=f=400:g=5:m=4:p=%4%0.95:t=0
+vid=1
+sub-pos=103.000000
+sub-visibility=no
+video-pan-x=-0.200000
+video-pan-y=0.300000
